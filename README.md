@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 Reach me on Twitter (@eljest_) or Discord (eljest#6900)
+- 📫 Reach me on Twitter (@eljest_) or Discord (eljest)
 
 <!---
 eljestliv/eljestliv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
